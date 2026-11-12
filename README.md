@@ -5,8 +5,8 @@ Ingeniero en Sistemas de Tegucigalpa. Trabajo en TI de dos empresas mayoristas c
 **Uso:** Next.js, React, React Native, Node.js, Python, SQL Server, Supabase, MongoDB, Git
 
 **Proyectos:**
-- **Comparador TGA**: app web que revisa documentos de traslado de inventario con IA y valida cada código contra el catálogo.
-- **Practice**: app móvil para practicar conversaciones por voz.
-- **MiMercado**: marketplace en Next.js para Centroamérica.
+- **Comparador TGA** (privado): app web que revisa documentos de traslado de inventario con IA y valida cada código contra el catálogo.
+- **[Practice](https://github.com/kevin09102001/practice)**: app web para practicar conversaciones por voz con una IA.
+- **[MiMercado](https://github.com/kevin09102001/mimercado)**: marketplace en Next.js para Honduras.
 
 📫 [linkedin.com/in/kevinrodriguezhn](https://www.linkedin.com/in/kevinrodriguezhn)
